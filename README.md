@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashDesai07
 - 👀 I’m interested in Flutter , Android , Ios , Python , UI & UX design , HTML/CSS .
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akash.desai5220@gmail.com
 
